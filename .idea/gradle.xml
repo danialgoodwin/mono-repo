@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app--stock-analyzer" />
             <option value="$PROJECT_DIR$/game--snake" />
             <option value="$PROJECT_DIR$/learn--interviews" />
             <option value="$PROJECT_DIR$/learn--project-euler" />
