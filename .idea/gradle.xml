@@ -11,9 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app--stock-analyzer" />
+            <option value="$PROJECT_DIR$/experimental" />
             <option value="$PROJECT_DIR$/game--snake" />
             <option value="$PROJECT_DIR$/learn--interviews" />
+            <option value="$PROJECT_DIR$/learn--libktx" />
             <option value="$PROJECT_DIR$/learn--project-euler" />
+            <option value="$PROJECT_DIR$/lib--cheat-sheets" />
           </set>
         </option>
       </GradleProjectSettings>
