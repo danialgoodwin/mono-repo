@@ -11,7 +11,7 @@ class MyExperimentalConsoleApp {
         @JvmStatic
         fun main(args: Array<String>) {
             println("")
-            log("main(...), args = [${args}]")
+            log("main(...), args = ${args.contentToString()}")
         }
 
         private fun log(message: String) {
